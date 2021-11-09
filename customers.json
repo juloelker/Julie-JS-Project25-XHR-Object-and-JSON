@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "123 Designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 2,
+    "name": "Vince Oelker",
+    "company": "Oelker Enterprises",
+    "phone": "444-534-6791"
+  },
+  {
+    "id": 3,
+    "name": "Julie Oelker",
+    "company": "Oelker Enterprises",
+    "phone": "444-984-8123"
+  },
+  {
+    "id": 4,
+    "name": "Clare Oelker",
+    "company": "Roncalli High School",
+    "phone": "444-877-2877"
+  }
+]
